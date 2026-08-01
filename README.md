@@ -30,5 +30,19 @@ The project demonstrates the use of Python and data science libraries to clean, 
 - Seaborn
 
 ---
+## Dataset
 
+The dataset contains information about Indian food dishes, including:
+
+- Dish Name
+- Ingredients
+- State/Region
+- Diet Type
+- Course
+- Preparation Time
+- Cooking Time
+- Total Time
+- Flavor Profile
+
+---
 
