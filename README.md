@@ -20,4 +20,15 @@ The project demonstrates the use of Python and data science libraries to clean, 
 - Data visualization using charts and graphs
 
 ---
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
 
