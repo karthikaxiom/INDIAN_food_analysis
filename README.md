@@ -45,4 +45,16 @@ The dataset contains information about Indian food dishes, including:
 - Flavor Profile
 
 ---
+## Project Structure
+
+```text
+Indian-Food-Analysis/
+│
+├── Indian_food__analysis.ipynb    # Main notebook containing the analysis
+├── indian_food.csv                # Dataset used for analysis
+├── archive (3).zip                # Original dataset archive
+└── README.md                      # Project documentation
+```
+
+---
 
