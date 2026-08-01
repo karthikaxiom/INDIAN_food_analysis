@@ -57,4 +57,18 @@ Indian-Food-Analysis/
 ```
 
 ---
+## Analysis Performed
 
+The notebook includes analyses such as:
+
+- Dataset exploration
+- Data cleaning
+- Missing value analysis
+- Distribution of vegetarian and non-vegetarian dishes
+- State-wise food distribution
+- Ingredient frequency analysis
+- Preparation and cooking time analysis
+- Data visualization using bar charts, histograms, pie charts, and count plots
+- Key insights from the dataset
+
+---
