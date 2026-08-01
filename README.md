@@ -72,3 +72,14 @@ The notebook includes analyses such as:
 - Key insights from the dataset
 
 ---
+## Sample Visualizations
+
+The project includes visualizations such as:
+
+- Bar Charts
+- Histograms
+- Pie Charts
+- Count Plots
+- Distribution Plots
+
+---
