@@ -90,3 +90,14 @@ The project includes visualizations such as:
 ```bash
 git clone https://github.com/karthikaxiom/Indian-Food-Analysis.git
 ```
+### Navigate to the Project Directory
+
+```bash
+cd Indian-Food-Analysis
+```
+
+### Install the Required Libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
