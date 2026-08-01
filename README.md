@@ -108,6 +108,19 @@ Open:
 ```text
 Indian_food__analysis.ipynb
 ```
+Run all cells to reproduce the analysis.
+
+---
+
+## Future Enhancements
+
+- Build an interactive dashboard using Streamlit
+- Perform advanced statistical analysis
+- Develop a food recommendation system
+- Apply machine learning techniques for cuisine prediction
+- Expand the dataset with additional regional cuisines
+
+---
 
 ### Install the Required Libraries
 
