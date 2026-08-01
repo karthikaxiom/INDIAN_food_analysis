@@ -127,3 +127,14 @@ Run all cells to reproduce the analysis.
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 ```
+## Contributing
+
+Contributions are welcome. Feel free to fork the repository, improve the project, and submit a pull request.
+
+---
+
+## License
+
+This project is intended for educational and learning purposes.
+
+---
