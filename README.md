@@ -95,6 +95,19 @@ git clone https://github.com/karthikaxiom/Indian-Food-Analysis.git
 ```bash
 cd Indian-Food-Analysis
 ```
+### Run the Notebook
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Indian_food__analysis.ipynb
+```
 
 ### Install the Required Libraries
 
