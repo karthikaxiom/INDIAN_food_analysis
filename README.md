@@ -83,3 +83,10 @@ The project includes visualizations such as:
 - Distribution Plots
 
 ---
+## Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/karthikaxiom/Indian-Food-Analysis.git
+```
