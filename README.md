@@ -132,7 +132,11 @@ pip install pandas numpy matplotlib seaborn jupyter
 Contributions are welcome. Feel free to fork the repository, improve the project, and submit a pull request.
 
 ---
+## Author
 
+**Karthik B R**
+
+Interested in Artificial Intelligence, Data Analytics, Machine Learning, and Research.
 ## License
 
 This project is intended for educational and learning purposes.
