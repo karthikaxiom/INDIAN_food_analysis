@@ -7,3 +7,17 @@ Indian Food Analysis is a data analytics project that explores the characteristi
 The project demonstrates the use of Python and data science libraries to clean, analyze, and visualize real-world data.
 
 ---
+
+## Features
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis of the dataset
+- Analysis of vegetarian and non-vegetarian dishes
+- Ingredient frequency analysis
+- Preparation and cooking time analysis
+- Cuisine and regional analysis
+- Data visualization using charts and graphs
+
+---
+
